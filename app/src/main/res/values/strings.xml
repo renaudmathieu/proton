@@ -1,3 +1,22 @@
 <resources>
     <string name="app_name">ProtonMailTest</string>
+    <string name="main_top_bar_title">Forecast</string>
+    <string name="main_pager_hottest">Hottest</string>
+    <string name="main_pager_upcoming">Upcoming</string>
+
+    <string name="details_top_bar_title">Day %1$s</string>
+
+    <string name="details_label_high">Max: %1$d°C</string>
+    <string name="details_label_low">Min: %1$d°C</string>
+
+    <string name="details_label_sunrise">Sunrise: %1$s</string>
+    <string name="details_label_sunset">Sunset: %1$s</string>
+
+    <string name="sync_notification_title">Now in Android</string>
+    <string name="sync_notification_channel_name">Sync</string>
+    <string name="sync_notification_channel_description">Background tasks for Now in Android</string>
+
+    <string name="item_forecast_title">Day %1$s: %2$s</string>
+    <string name="main_top_bar_subtitle">Сurrent weather and forecast</string>
+
 </resources>
